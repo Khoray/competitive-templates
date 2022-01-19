@@ -55,26 +55,19 @@ void ntt(int y[], int len, int on) {
 
 
 //G(x)=2H(x)-F(x)H(x)^2
-const int N=1e2+5;
+const int N=1e6+5;
 int tmp[N],n;
 void inv(int y[], int len, int ans[]) {
     memset(tmp, 0, sizeof(tmp));
     memset(ans, 0, sizeof(ans));
     ans[0] = qpow(y[0]);
     tmp[0] = y[0];
-    for(int i=2;i<=len;i<<=1) {
-        for(int j=0;j<i;j++) {
-            tmp[j] = y[j];
-        }        
-        ntt(ans, i<<1, 1),ntt(tmp, i<<1, 1);
-        for(int j=0;j<i<<1;j++) {
-            ans[j] = (((ans[j]*2%mod-tmp[j]*ans[j]%mod*ans[j]%mod) % mod) + mod) % mod;
-        }
-        ntt(ans, i<<1, -1);
-        for(int j=i;j<len;j++) {
-            ans[j]=0;
-        }
+    ntt(y, len, 1);
+    for(int i=0;i<len;i++) {
+        ans[i]=1ll*qpow(y[i]);
     }
+    ntt(y, len, -1);
+    ntt(ans, len, -1);
 }
 
 int a1[N],ans[N];

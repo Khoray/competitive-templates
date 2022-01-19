@@ -1,0 +1,21 @@
+**黑鹰崛起**
+
+Mr Van Buiten is cagey about the other sensors Matrix uses, but says they include various cameras and conventional radars. Presumably, the system will also have digitised terrain maps that will both assist navigation and permit it to spot changes in geographical features that may be the result of enemy activities. As to the flight-controlling servos, these are built into the aircraft itself. Matrix is not like PIBOT, a humanoid robotic flight-control system being designed by engineers in South Korea, which sits in an unmodified pilot’s seat and manipulates unmodified controls.
+
+**Van Buiten先生对Matrix使用的其他传感器非常谨慎，但他表示，这些传感器包含了各种相机和传统雷达。 据推测，该系统还将配备数字化地形图，既能协助导航，又能发现由于敌方行动可能造成的地理特征的变化。至于飞行控制伺服系统，他们将被内置于机身里。 Matrix不像PIBOT（飞行师机器人），PIBOT是一个由韩国工程师设计的仿人机器人飞行控制系统，将被放在飞行员的一个未更改的座位上，操纵固定的控制装置。**
+
+The sensors’ rapid reactions—milliseconds rather than the two seconds or so a human pilot takes to assess and respond to an unexpected hazard—should make the unmanned system safer than such a pilot. It will take time to reach that level, but Matrix should, almost from the beginning, be able to take the aircraft over and fly it solo in case of an emergency. If the engine were to fail, for example, it would scan the ground below for the best landing spot and touch down there without human assistance. It will also be able to detect whether the pilot has fallen unconscious and, if so, fly the helicopter safely.
+
+**这些传感器反应迅速，评估和应对意外危险只需几毫秒，而人类飞行员却需要两秒钟左右。这些传感器使无人系统比飞行员（操纵）更安全。 达到这个水平需要时日，但是Matrix 几乎从一开始就能够在紧急情况下控制飞机，并独自驾驶。 例如，如果发动机故障，Matrix 将会进行地面扫描，寻找最佳着陆点，并在没有人工协助的情况下着陆。同时也能够检测飞行员是否失去意识，如果是的话，（无人驾驶系统）就会确保直升机安全地飞行。**
+
+The plan is to expand these sorts of features, moving steadily from assisting the pilot to flying the aircraft autonomously. And though there are what Mr Van Buiten calls “gnarly technical problems” to be overcome, he says the biggest challenge is building trust. Not only passengers, but also pilots and regulators need to have confidence in the safety of Matrix before it can be fully autonomised.
+
+**该方案是为了扩展这些功能，从协助飞行员平稳过渡到自动飞行。 尽管Van Buiten先生称还要克服一些“技术难题”，但他认为最大的挑战是建立信任。在实现完全自动化之前，不仅是乘客，飞行员和管理者都需要对Matrix的安全性有信心。**
+
+Mr Van Buiten cites a precedent for such trust-building—a recovery system which Lockheed installed in F-16 fighter jets. If an F-16 pilot passes out during a violent manoeuvre, this automatically brings the aircraft into a straight and level flight path. That has already prevented several crashes, shifting pilots’ attitudes from indifference to “I want that on board my fighter”. **Van Buiten先生引用了这种信任建立的先例--洛克希德公司在F-16战斗机中安装的一套自我恢复系统。如果F-16的飞行员在一次猛烈的战斗中失去了知觉，这套系统就会自动让飞机进入直线、水平飞行的路线。这已经成功避免了一些坠机事件，飞行员的态度也从一开始的漠不关心后来的主动要求安装这套系统在飞机上。**
+
+The airframe being used for the first tests is one of the oldest models of Black Hawk, a UH-60A from 1980. This was chosen to demonstrate the ease with which an aircraft can be upgraded. Once the modified aircraft is airborne, it will be a matter of accumulating thousands of hours of reliable operation while steadily expanding the range of tasks that the automated controls can carry out unaided in increasingly challenging environments. Then, from Lockheed’s point of view, it will be ready for testing by the armed forces. **被用于首批试验的UH-60A是1980年以来“黑鹰”最老的机型。这是为了证明可以很方便的完成飞机的升级。一旦被改装的飞机进入飞行后，这将是一个累积上千小时的可靠运行的问题，同时将稳步扩大任务范围，而这些任务是自动控制系统在日益困难的环境中自动完成的。然后，从洛克希德的角度来看，这套系统已经准备好接受军方测试了。**
+
+Warfare, however, is not the only potential market for Matrix. Mr Van Buitensays the technology may also see early use servicing offshore oil and gas platforms, permitting them to be resupplied in all weather conditions, withoutrisking pilots. Fortunately for those who find even quadcopters noisy and irritating, pizza delivery is not on Lockheed’s menu.
+
+**不过，对Matrix来说，战场不是唯一的潜在市场。Van Buiten先生说，这项技术还可能早期就被应用于近海的石油、天然气开采平台，不用飞行员冒风险就可以在任何天气情况下自主完成对这些平台的供给。而对于那些厌烦四轴飞行器（飞机）噪音的人来说，幸好洛克希德没把送披萨列为无人飞机的运送任务之内。**
